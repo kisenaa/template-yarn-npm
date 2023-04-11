@@ -41,7 +41,7 @@ const features = [
     docs: "https://www.typescriptlang.org/",
   },
   {
-    name: "Tailwind with JIT",
+    name: "Tailwinds with JIT",
     description: "A utility-first CSS framework packed with classes.",
     logo: PhotoIcon,
     docs: "https://tailwindcss.com/",
