@@ -40,15 +40,15 @@ jobs:
 
       # Install
       - name: INSTALL
-        run: yarn
+        run: yarn install
 
       # Build
       - name: BUILD
-        run: yarn build:ci
+        run: yarn build
 
       # Test
       - name: TEST
-        run: yarn test:ci
+        run: yarn test
 
       # Upload dist artifacts
       - uses: actions/upload-artifact@v3
