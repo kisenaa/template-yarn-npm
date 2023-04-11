@@ -1,6 +1,6 @@
 <div align="center">
 
-[![ci](https://github.com/kisenaa/template-yarn-npm/actions/workflows/ci-pnpm.yml/badge.svg?branch=main)](https://github.com/kisenaa/template-yarn-npm/actions)
+[![ci](https://github.com/kisenaa/template-yarn-npm/actions/workflows/ci-yarn.yml/badge.svg?branch=main)](https://github.com/kisenaa/template-yarn-npm/actions)
 [![codecov.io](https://codecov.io/github/kisenaa/template-yarn-npm/coverage.svg?branch=main)](https://codecov.io/gh/kisenaa/template-yarn-npm?branch=master)
 
 # React v18 , vite, tailwind css, github actions
