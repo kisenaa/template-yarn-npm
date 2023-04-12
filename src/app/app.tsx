@@ -34,7 +34,7 @@ const features = [
     docs: "https://reactjs.org/",
   },
   {
-    name: "TypeScript",
+    name: "TypeScriptss",
     description:
       "Strongly typed programming language that builds on JavaScript.",
     logo: BookmarkIcon,
