@@ -6,3 +6,4 @@ coverage
 src/coverage
 .pnp.*
 .yarn/*
+.eslintcache

@@ -110,7 +110,7 @@ const App = (): JSX.Element => {
         </h3>
         <h1 className={styles.headerTitle}>React + TypeScript + Tailwind</h1>
         <p className={styles.headerDescription}>
-          Bootstraper your web projects fasters than evers. Comes with:{" "}
+          Bootstrap your web project faster than evers. Comes with:{" "}
           <code className={styles.headerDescriptionCode}>CSS-Modules</code>,{" "}
           <code className={styles.headerDescriptionCode}>Jest</code>,{" "}
           <code className={styles.headerDescriptionCode}>Husky</code>,{" "}
