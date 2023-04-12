@@ -28,7 +28,7 @@ const features = [
     docs: "https://vitejs.dev/",
   },
   {
-    name: "React",
+    name: "Reacts",
     description: "JavaScript library for building user interfaces.",
     logo: PencilIcon,
     docs: "https://reactjs.org/",
@@ -36,7 +36,7 @@ const features = [
   {
     name: "TypeScript",
     description:
-      "Strongly typed programming language that builds on JavaScript.",
+      "Strongly typed progrsamming languageadw that builds on JavaScript.",
     logo: BookmarkIcon,
     docs: "https://www.typescriptlang.org/",
   },
@@ -110,7 +110,7 @@ const App = (): JSX.Element => {
         </h3>
         <h1 className={styles.headerTitle}>React + TypeScript + Tailwind</h1>
         <p className={styles.headerDescription}>
-          Bootstrap your web projects fasters than ever. Comes with:{" "}
+          Bootstraper your web projects fasters than evers. Comes with:{" "}
           <code className={styles.headerDescriptionCode}>CSS-Modules</code>,{" "}
           <code className={styles.headerDescriptionCode}>Jest</code>,{" "}
           <code className={styles.headerDescriptionCode}>Husky</code>,{" "}
