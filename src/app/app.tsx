@@ -21,7 +21,7 @@ import styles from "./app.module.css";
 
 const features = [
   {
-    name: "Vitess",
+    name: "Vites",
     description:
       "Faster and leaner development experience for modern web projects.",
     logo: CubeTransparentIcon,
@@ -34,14 +34,14 @@ const features = [
     docs: "https://reactjs.org/",
   },
   {
-    name: "TypeScriptss",
+    name: "TypeScript",
     description:
       "Strongly typed programming language that builds on JavaScript.",
     logo: BookmarkIcon,
     docs: "https://www.typescriptlang.org/",
   },
   {
-    name: "Tailwinds withs JIT",
+    name: "Tailwinds with JIT",
     description: "A utility-first CSS framework packed with classes.",
     logo: PhotoIcon,
     docs: "https://tailwindcss.com/",
