@@ -131,7 +131,7 @@ const App = (): JSX.Element => {
           <a href="https://github.com/jvidalv/vital">
             <Button>Visit on Github</Button>
           </a>
-          <CopyButton text="npx degit jvidalv/vital my-app" />
+          <CopyButton text="npx degit kisenaa/template-yarn-npm my-app" />
         </div>
       </section>
       <section className={styles.features}>

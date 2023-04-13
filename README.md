@@ -10,7 +10,7 @@
 ### Clone to local (using yarn v3)
 
 ```bash
-npx degit jvidalv/vital my-vital-app
+npx degit kisenaa/template-yarn-npm my-vital-app
 cd my-vital-app
 yarn
 ```
